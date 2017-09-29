@@ -1,0 +1,27 @@
+name: quickpy
+dependencies:
+    - python=3.6
+    - jupyter
+    - pandas
+    - matplotlib
+    - scipy
+    - numpy
+    - dask
+    - xarray
+    - seaborn
+    - scikit-learn
+    - scikit-image
+    - pep8
+    - plotly
+    - bokeh
+    - numba
+    - notebook
+    - numpydoc
+    - nbformat
+    - netCDF4
+    - nbconvert
+    - ipywidgets
+    - boto
+    - blaze
+    - basemap
+
