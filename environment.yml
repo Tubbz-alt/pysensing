@@ -24,4 +24,7 @@ dependencies:
     - boto
     - blaze
     - basemap
+    - pip:
+        - nbdime
+
 

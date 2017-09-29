@@ -20,8 +20,6 @@
 
 Note: To update the environment:
 
-'''
-source deactivate;
-conda env update -f whatever.yml;
-source activate my_environment_name; # Must be AFTER the conda env update line!
-'''
+>source deactivate;
+>conda env update -f whatever.yml;
+>source activate my_environment_name; # Must be AFTER the conda env update line!
